@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=180&section=header&text=José%20Roberto%20Ramos&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Implementando%20Inovação%20•%20Automação%20•%20IA%20na%20Gestão%20Tradicional&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:2563eb&height=180&section=header&text=José%20Roberto%20Ramos&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Implementando%20Inovação%20•%20Automação%20•%20IA%20na%20Gestão%20Tradicional&descAlignY=51&descAlign=50"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&repeat=true&width=900&height=80&lines=%F0%9F%92%BC+Especialista+em+Gest%C3%A3o+Banc%C3%A1ria+%7C+20%2B+Anos;%F0%9F%A4%96+Full+Stack+Developer+em+Forma%C3%A7%C3%A3o;%F0%9F%9A%80+Lifelong+Learning+%E2%80%A2+Sempre+Aprendendo;%E2%9A%A1+Inovando+e+Implementando+Melhorias;%F0%9F%94%A7+Automa%C3%A7%C3%A3o+%E2%80%A2+IA+%E2%80%A2+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=900&height=80&lines=%F0%9F%92%BC+Especialista+em+Gest%C3%A3o+Banc%C3%A1ria+%7C+20%2B+Anos;%F0%9F%92%BB+Full+Stack+Developer+em+Forma%C3%A7%C3%A3o;%F0%9F%9A%80+Lifelong+Learning+%E2%80%A2+Sempre+Aprendendo;%E2%9A%A1+Inovando+e+Implementando+Melhorias;%F0%9F%94%A7+Automa%C3%A7%C3%A3o+%E2%80%A2+IA+%E2%80%A2+Data+Science)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,7 +43,7 @@ const joseRoberto = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=CF6679&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Gest%C3%A3o+Estrat%C3%A9gica+%E2%80%A2+Lideran%C3%A7a+%E2%80%A2+Inova%C3%A7%C3%A3o;%F0%9F%92%BB+Python+%E2%80%A2+JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3;%F0%9F%93%8A+Data+Science+%E2%80%A2+Streamlit+%E2%80%A2+Pandas;%F0%9F%A4%96+Machine+Learning+%E2%80%A2+IA+%E2%80%A2+Automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%E2%9A%A1+Gest%C3%A3o+Estrat%C3%A9gica+%E2%80%A2+Lideran%C3%A7a+%E2%80%A2+Inova%C3%A7%C3%A3o;%F0%9F%92%BB+Python+%E2%80%A2+JavaScript+%E2%80%A2+HTML5+%E2%80%A2+CSS3;%F0%9F%93%8A+Data+Science+%E2%80%A2+Streamlit+%E2%80%A2+Pandas;%F0%9F%A4%96+Machine+Learning+%E2%80%A2+IA+%E2%80%A2+Automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 </div>
 
@@ -59,45 +59,45 @@ const joseRoberto = {
 <tr>
 <td align="center" width="140" height="112">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>Python</strong></span>
+<br /><strong>Python</strong>
 </td>
 <td align="center" width="140" height="112">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>HTML5</strong></span>
+<br /><strong>HTML5</strong>
 </td>
 <td align="center" width="140" height="112">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>CSS3</strong></span>
+<br /><strong>CSS3</strong>
 </td>
 <td align="center" width="140" height="112">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>JavaScript</strong></span>
+<br /><strong>JavaScript</strong>
 </td>
 <td align="center" width="140" height="112">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>Git</strong></span>
+<br /><strong>Git</strong>
 </td>
 </tr>
 <tr>
 <td align="center" width="140" height="112">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>Streamlit</strong></span>
+<br /><strong>Streamlit</strong>
 </td>
 <td align="center" width="140" height="112">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>Pandas</strong></span>
+<br /><strong>Pandas</strong>
 </td>
 <td align="center" width="140" height="112">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>NumPy</strong></span>
+<br /><strong>NumPy</strong>
 </td>
 <td align="center" width="140" height="112">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>VS Code</strong></span>
+<br /><strong>VS Code</strong>
 </td>
 <td align="center" width="140" height="112">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="65" height="65" />
-<br /><span style="color:#BB86FC"><strong>GitHub</strong></span>
+<br /><strong>GitHub</strong>
 </td>
 </tr>
 </table>
@@ -113,7 +113,7 @@ const joseRoberto = {
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#BB86FC','primaryTextColor':'#FFFFFF','primaryBorderColor':'#BB86FC','lineColor':'#CF6679','secondaryColor':'#1a1a2e','tertiaryColor':'#16213e','fontSize':'16px'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#3B82F6','primaryTextColor':'#FFFFFF','primaryBorderColor':'#2563EB','lineColor':'#F97316','secondaryColor':'#1e3a8a','tertiaryColor':'#1e40af','fontSize':'16px'}}}%%
 timeline
     title Jornada Profissional - Banco do Brasil
     2004-2007 : Escriturário
@@ -256,20 +256,20 @@ Novos projetos integrando IA, automação e análise de dados.
 
 ### 💡 Soft Skills
 
-![Comunicação](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-BB86FC?style=for-the-badge&logo=discourse&logoColor=white)
-![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-CF6679?style=for-the-badge&logo=teamspeak&logoColor=white)
-![Resiliência](https://img.shields.io/badge/Resili%C3%AAncia-9C27B0?style=for-the-badge&logo=statuspage&logoColor=white)
-![Proatividade](https://img.shields.io/badge/Proatividade-E91E63?style=for-the-badge&logo=lightning&logoColor=white)
-![Organização](https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-7B1FA2?style=for-the-badge&logo=trello&logoColor=white)
-![Liderança](https://img.shields.io/badge/Lideran%C3%A7a-D81B60?style=for-the-badge&logo=target&logoColor=white)
-![Inovação](https://img.shields.io/badge/Inova%C3%A7%C3%A3o-8E24AA?style=for-the-badge&logo=rocket&logoColor=white)
+![Comunicação](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o-2563EB?style=for-the-badge&logo=discourse&logoColor=white)
+![Trabalho em Equipe](https://img.shields.io/badge/Trabalho%20em%20Equipe-1D4ED8?style=for-the-badge&logo=teamspeak&logoColor=white)
+![Resiliência](https://img.shields.io/badge/Resili%C3%AAncia-1E40AF?style=for-the-badge&logo=statuspage&logoColor=white)
+![Proatividade](https://img.shields.io/badge/Proatividade-F97316?style=for-the-badge&logo=lightning&logoColor=white)
+![Organização](https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-1E3A8A?style=for-the-badge&logo=trello&logoColor=white)
+![Liderança](https://img.shields.io/badge/Lideran%C3%A7a-EA580C?style=for-the-badge&logo=target&logoColor=white)
+![Inovação](https://img.shields.io/badge/Inova%C3%A7%C3%A3o-3B82F6?style=for-the-badge&logo=rocket&logoColor=white)
 
 ### 🎯 Hard Skills
 
-![Gestão Estratégica](https://img.shields.io/badge/Gest%C3%A3o%20Estrat%C3%A9gica-BB86FC?style=for-the-badge&logo=strategy&logoColor=white)
-![Análise Financeira](https://img.shields.io/badge/An%C3%A1lise%20Financeira-CF6679?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Gestão de Carteiras](https://img.shields.io/badge/Gest%C3%A3o%20de%20Carteiras-9C27B0?style=for-the-badge&logo=wallet&logoColor=white)
-![Relacionamento Cliente](https://img.shields.io/badge/Relacionamento%20Cliente-E91E63?style=for-the-badge&logo=handshake&logoColor=white)
+![Gestão Estratégica](https://img.shields.io/badge/Gest%C3%A3o%20Estrat%C3%A9gica-2563EB?style=for-the-badge&logo=strategy&logoColor=white)
+![Análise Financeira](https://img.shields.io/badge/An%C3%A1lise%20Financeira-F97316?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Gestão de Carteiras](https://img.shields.io/badge/Gest%C3%A3o%20de%20Carteiras-1D4ED8?style=for-the-badge&logo=wallet&logoColor=white)
+![Relacionamento Cliente](https://img.shields.io/badge/Relacionamento%20Cliente-EA580C?style=for-the-badge&logo=handshake&logoColor=white)
 
 </div>
 
@@ -281,19 +281,19 @@ Novos projetos integrando IA, automação e análise de dados.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bettograpiuna&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=CF6679&text_color=E0E0E0&ring_color=BB86FC" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bettograpiuna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=F97316&text_color=FFFFFF&ring_color=3B82F6" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bettograpiuna&theme=material-palenight&hide_border=true&background=0D1117&ring=BB86FC&fire=CF6679&currStreakLabel=BB86FC&sideLabels=CF6679&currStreakNum=E0E0E0&sideNums=E0E0E0&dates=E0E0E0" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bettograpiuna&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6&sideLabels=F97316&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettograpiuna&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=E0E0E0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettograpiuna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bettograpiuna&theme=material-palenight&hide_border=true&bg_color=0D1117&color=BB86FC&line=CF6679&point=E91E63" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=bettograpiuna&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=F97316&point=FBBF24" />
 
 </div>
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=bettograpiuna&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=bettograpiuna&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -307,8 +307,8 @@ Novos projetos integrando IA, automação e análise de dados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bettograpiuna)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bettograpiuna)
-[![Email](https://img.shields.io/badge/Email-BB86FC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bettograpiuna@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-CF6679?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bettograpiuna.github.io/Portifolio2/)
+[![Email](https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bettograpiuna@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bettograpiuna.github.io/Portifolio2/)
 
 </div>
 
@@ -318,7 +318,7 @@ Novos projetos integrando IA, automação e análise de dados.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&repeat=true&width=900&height=100&lines=%E2%9C%A8+Aberto+a+colabora%C3%A7%C3%B5es+em+Inova%C3%A7%C3%A3o+e+Tecnologia;%F0%9F%9A%80+Implementando+Automa%C3%A7%C3%A3o+e+IA+na+Gest%C3%A3o;%F0%9F%92%BC+Conectando+Experi%C3%AAncia+Tradicional+%2B+Tech;%F0%9F%92%BB+Lifelong+Learning+%E2%80%A2+Sempre+Aprendendo;%F0%9F%94%A5+Transformando+Ideias+em+Solu%C3%A7%C3%B5es+Reais;%E2%9A%A1+Inovando+e+Implementando+Melhorias+Cont%C3%ADnuas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=900&height=100&lines=%E2%9C%A8+Aberto+a+colabora%C3%A7%C3%B5es+em+Inova%C3%A7%C3%A3o+e+Tecnologia;%F0%9F%9A%80+Implementando+Automa%C3%A7%C3%A3o+e+IA+na+Gest%C3%A3o;%F0%9F%92%BC+Conectando+Experi%C3%AAncia+Tradicional+%2B+Tech;%F0%9F%92%BB+Lifelong+Learning+%E2%80%A2+Sempre+Aprendendo;%F0%9F%94%A5+Transformando+Ideias+em+Solu%C3%A7%C3%B5es+Reais;%E2%9A%A1+Inovando+e+Implementando+Melhorias+Cont%C3%ADnuas)](https://git.io/typing-svg)
 
 <br>
 
@@ -326,10 +326,10 @@ Novos projetos integrando IA, automação e análise de dados.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bettograpiuna&color=BB86FC&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
+![Profile Views](https://komarev.com/ghpvc/?username=bettograpiuna&color=3B82F6&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:1e40af,100:2563eb&height=120&section=footer&animation=fadeIn"/>
 
 </div>
