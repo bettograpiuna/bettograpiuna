@@ -3,7 +3,7 @@
   <source media="(max-width: 559px)" srcset="assets/v2/capa-celular.svg">
   <source media="(min-width: 768px) and (max-width: 900px)" srcset="assets/v2/capa-celular.svg">
   <source media="(max-width: 1279px)" srcset="assets/v2/capa-medio.svg">
-  <img src="assets/v2/capa.svg" width="100%" alt="José Roberto Ramos, Salvador/BA. IA que presta contas. Gerente Geral no Banco do Brasil; construo sistemas de IA para gestão, e cada número se prova em código. 20+ anos de banco, 14 especialistas na AlfrênIA, 280+ ferramentas integradas, 96 verificações antes do ar.">
+  <img src="assets/v2/capa.svg" width="100%" alt="José Roberto Ramos, Salvador/BA. IA que presta contas. Gerente Geral no Banco do Brasil; construo sistemas de IA para gestão, e cada número se prova em código. 20+ anos de banco, 14 especialistas na AlfrênIA, 280+ ferramentas integradas, 96 verificações antes do ar. Ao lado, o núcleo animado do roteador da AlfrênIA despacha mensagens para os 14 especialistas.">
 </picture>
 </p>
 
