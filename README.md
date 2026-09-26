@@ -6,7 +6,7 @@ Levo para a tecnologia o que a gestão me ensinou: meta clara, número conferido
 
 Construo com agentes de IA de programação: eu defino o problema, as regras e a forma de conferir; eles escrevem o código dentro dessas travas.
 
-Idealizei e promovi, junto com o professor Paschoal Oliveira (@paschoaloli), duas turmas de **IA para Gestores**: 20 Gerentes Gerais de bancos, em turmas presenciais com encontros semanais durante 3 meses.
+Idealizei e promovi, junto com o professor Paschoal Oliveira ([@paschoaloli](https://www.instagram.com/paschoaloli/)), duas turmas de **IA para Gestores**: 20 Gerentes Gerais de bancos, em turmas presenciais com encontros semanais durante 3 meses.
 
 ## `01` O que estou construindo
 
