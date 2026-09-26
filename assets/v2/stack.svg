@@ -3,26 +3,26 @@
 <rect x="0" y="0" width="960" height="54" rx="14" fill="url(#superficie)" stroke="#FFFFFF" stroke-opacity="0.09"/>
 <rect x="0" y="0" width="960" height="54" rx="14" fill="url(#brilho-violeta)"/>
 <rect x="0" y="12" width="4" height="30" rx="2" fill="#8B5CF6"/>
-<text x="24.0" y="31.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#C4B5FD" text-anchor="start" letter-spacing="2">AGENTES DE IA</text>
+<text x="24.0" y="31.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="600" fill="#C4B5FD" text-anchor="start" letter-spacing="2">AGENTES DE IA</text>
 <text x="190.0" y="33.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="400" fill="#F5F7FB" text-anchor="start">Claude Code  ·  Codex  ·  Antigravity</text>
 <rect x="14" y="66" width="932" height="54" rx="14" fill="url(#superficie)" stroke="#FFFFFF" stroke-opacity="0.09"/>
 <rect x="14" y="66" width="932" height="54" rx="14" fill="url(#brilho-turquesa)"/>
 <rect x="14" y="78" width="4" height="30" rx="2" fill="#14B8A6"/>
-<text x="38.0" y="97.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#5EEAD4" text-anchor="start" letter-spacing="2">IA</text>
+<text x="38.0" y="97.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="600" fill="#5EEAD4" text-anchor="start" letter-spacing="2">IA</text>
 <text x="204.0" y="99.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="400" fill="#F5F7FB" text-anchor="start">Gemini  ·  OpenRouter  ·  RAG  ·  visão computacional</text>
 <rect x="28" y="132" width="904" height="54" rx="14" fill="url(#superficie)" stroke="#FFFFFF" stroke-opacity="0.09"/>
 <rect x="28" y="132" width="904" height="54" rx="14" fill="url(#brilho-ceu)"/>
 <rect x="28" y="144" width="4" height="30" rx="2" fill="#0EA5E9"/>
-<text x="52.0" y="163.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#7DD3FC" text-anchor="start" letter-spacing="2">WEB</text>
+<text x="52.0" y="163.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="600" fill="#7DD3FC" text-anchor="start" letter-spacing="2">WEB</text>
 <text x="218.0" y="165.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="400" fill="#F5F7FB" text-anchor="start">Next.js  ·  React  ·  Tailwind  ·  Node.js  ·  Express  ·  FastAPI</text>
 <rect x="42" y="198" width="876" height="54" rx="14" fill="url(#superficie)" stroke="#FFFFFF" stroke-opacity="0.09"/>
 <rect x="42" y="198" width="876" height="54" rx="14" fill="url(#brilho-ambar)"/>
 <rect x="42" y="210" width="4" height="30" rx="2" fill="#F59E0B"/>
-<text x="66.0" y="229.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#FCD34D" text-anchor="start" letter-spacing="2">DADOS</text>
+<text x="66.0" y="229.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="600" fill="#FCD34D" text-anchor="start" letter-spacing="2">DADOS</text>
 <text x="232.0" y="231.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="400" fill="#F5F7FB" text-anchor="start">MySQL  ·  Prisma  ·  SQLite  ·  SQLAlchemy  ·  pandas</text>
 <rect x="56" y="264" width="848" height="54" rx="14" fill="url(#superficie)" stroke="#FFFFFF" stroke-opacity="0.09"/>
 <rect x="56" y="264" width="848" height="54" rx="14" fill="url(#brilho-lima)"/>
 <rect x="56" y="276" width="4" height="30" rx="2" fill="#84CC16"/>
-<text x="80.0" y="295.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12" font-weight="600" fill="#D9F99D" text-anchor="start" letter-spacing="2">ENTREGA</text>
+<text x="80.0" y="295.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="600" fill="#D9F99D" text-anchor="start" letter-spacing="2">ENTREGA</text>
 <text x="246.0" y="297.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16.5" font-weight="400" fill="#F5F7FB" text-anchor="start">Git  ·  GitHub  ·  Railway  ·  Telegram</text>
 </svg>

@@ -8,38 +8,38 @@
 <rect width="960" height="440" fill="url(#pontos)"/></g>
 <rect x="0.5" y="0.5" width="959" height="439" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
 <text x="48" y="70" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-0.8"><tspan fill="#F5F7FB">Duas décadas de banco. </tspan><tspan fill="url(#grad-frase)">A tecnologia acelerou agora.</tspan></text>
-<text x="60.0" y="112.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="600" fill="#FCD34D" text-anchor="start" letter-spacing="2">BANCO DO BRASIL</text>
+<text x="60.0" y="112.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="600" fill="#FCD34D" text-anchor="start" letter-spacing="2">BANCO DO BRASIL</text>
 <rect x="61.5" y="176" width="107.8" height="14" rx="7" fill="#92400E"/>
 <text x="115.4" y="146.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F7FB" text-anchor="middle">Escriturário</text>
-<text x="115.4" y="164.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="400" fill="#6B778C" text-anchor="middle">2004–2007</text>
+<text x="115.4" y="165.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#8B949E" text-anchor="middle">2004–2007</text>
 <rect x="172.3" y="176" width="181.6" height="14" rx="7" fill="#B45309"/>
 <text x="263.1" y="214.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F7FB" text-anchor="middle">Assistente de Negócios PF/PJ</text>
-<text x="263.1" y="231.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="400" fill="#6B778C" text-anchor="middle">2007–2012</text>
+<text x="263.1" y="233.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#8B949E" text-anchor="middle">2007–2012</text>
 <rect x="356.9" y="176" width="70.8" height="14" rx="7" fill="#D97706"/>
 <text x="392.3" y="146.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F7FB" text-anchor="middle">Gerente de Contas PJ</text>
-<text x="392.3" y="164.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="400" fill="#6B778C" text-anchor="middle">2012–2014</text>
+<text x="392.3" y="165.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#8B949E" text-anchor="middle">2012–2014</text>
 <rect x="430.7" y="176" width="218.5" height="14" rx="7" fill="#F59E0B"/>
 <text x="540.0" y="214.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F7FB" text-anchor="middle">Assessor na Superintendência Regional</text>
-<text x="540.0" y="231.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="400" fill="#6B778C" text-anchor="middle">2014–2020</text>
+<text x="540.0" y="233.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#8B949E" text-anchor="middle">2014–2020</text>
 <rect x="652.3" y="176" width="246.2" height="14" rx="7" fill="#FCD34D"/>
 <text x="775.4" y="146.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#F5F7FB" text-anchor="middle">Gerente Geral de agência</text>
-<text x="775.4" y="164.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" font-weight="400" fill="#6B778C" text-anchor="middle">2020–hoje</text>
-<text x="60.0" y="272.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="600" fill="#5EEAD4" text-anchor="start" letter-spacing="2">TECNOLOGIA</text>
-<line x1="60" y1="301" x2="798.5" y2="301" stroke="#6B778C" stroke-opacity="0.6" stroke-dasharray="2 6"/>
+<text x="775.4" y="165.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="400" fill="#8B949E" text-anchor="middle">2020–hoje</text>
+<text x="60.0" y="272.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="600" fill="#5EEAD4" text-anchor="start" letter-spacing="2">TECNOLOGIA</text>
+<line x1="60" y1="301" x2="798.5" y2="301" stroke="#8B949E" stroke-opacity="0.6" stroke-dasharray="2 6"/>
 <rect x="798.5" y="296" width="101.5" height="10" rx="5" fill="url(#grad-tec)"/>
 <polyline points="798.5,308 798.5,341 764,341" fill="none" stroke="#5EEAD4" stroke-opacity="0.45"/>
 <circle cx="798.5" cy="301" r="5" fill="#5EEAD4" stroke="#0A0D14" stroke-width="2"/>
-<text x="756.0" y="346.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#F5F7FB" text-anchor="end">2024 · Infinity School</text>
+<text x="756.0" y="346.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#F5F7FB" text-anchor="end">2024 · Infinity School</text>
 <polyline points="850.9,308 850.9,363 764,363" fill="none" stroke="#5EEAD4" stroke-opacity="0.45"/>
 <circle cx="850.9" cy="301" r="5" fill="#5EEAD4" stroke="#0A0D14" stroke-width="2"/>
-<text x="756.0" y="368.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#F5F7FB" text-anchor="end">jun/2025 · primeiros projetos no GitHub</text>
+<text x="756.0" y="368.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#F5F7FB" text-anchor="end">jun/2025 · primeiros projetos no GitHub</text>
 <polyline points="886.0,308 886.0,385 764,385" fill="none" stroke="#5EEAD4" stroke-opacity="0.45"/>
 <circle cx="886.0" cy="301" r="5" fill="#5EEAD4" stroke="#0A0D14" stroke-width="2"/>
-<text x="756.0" y="390.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#F5F7FB" text-anchor="end">mai/2026 · primeiros sistemas próprios</text>
+<text x="756.0" y="390.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#F5F7FB" text-anchor="end">mai/2026 · primeiros sistemas próprios</text>
 <polyline points="892.2,308 892.2,407 764,407" fill="none" stroke="#5EEAD4" stroke-opacity="0.45"/>
 <circle cx="892.2" cy="301" r="5" fill="#5EEAD4" stroke="#0A0D14" stroke-width="2"/>
-<text x="756.0" y="412.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" font-weight="500" fill="#F5F7FB" text-anchor="end">jul/2026 · nasce a AlfrênIA</text>
-<text x="60.0" y="346.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="11.5" font-weight="600" fill="#C4B5FD" text-anchor="start" letter-spacing="2">EM PARALELO</text>
+<text x="756.0" y="412.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="500" fill="#F5F7FB" text-anchor="end">jul/2026 · nasce a AlfrênIA</text>
+<text x="60.0" y="346.0" font-family="'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" font-weight="600" fill="#C4B5FD" text-anchor="start" letter-spacing="2">EM PARALELO</text>
 <text x="60.0" y="370.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#A6B0C3" text-anchor="start">MBA em Data Science, IA e Analytics — USP/ESALQ</text>
 <text x="60.0" y="392.0" font-family="'Segoe UI Variable Display', 'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" fill="#A6B0C3" text-anchor="start">IA para Gestores — com o prof. Paschoal Oliveira</text>
 </svg>

@@ -1,7 +1,11 @@
+<p>
 <picture>
-  <source media="(max-width: 700px)" srcset="assets/v2/capa-celular.svg">
+  <source media="(max-width: 559px)" srcset="assets/v2/capa-celular.svg">
+  <source media="(min-width: 768px) and (max-width: 900px)" srcset="assets/v2/capa-celular.svg">
+  <source media="(max-width: 1279px)" srcset="assets/v2/capa-medio.svg">
   <img src="assets/v2/capa.svg" width="100%" alt="José Roberto Ramos, Salvador/BA. IA que presta contas. Gerente Geral no Banco do Brasil; construo sistemas de IA para gestão, e cada número se prova em código. 20+ anos de banco, 14 especialistas na AlfrênIA, 280+ ferramentas integradas, 96 verificações antes do ar.">
 </picture>
+</p>
 
 Sou Gerente Geral de agência no Banco do Brasil, com mais de 20 anos de carreira, e faço MBA em Data Science, IA e Analytics na USP/ESALQ. Construo com agentes de IA de programação: eu defino o problema, as regras e a forma de conferir; eles escrevem o código dentro dessas travas.
 
@@ -9,12 +13,16 @@ Também formo gestores. Idealizei e promovi, junto com o professor Paschoal Oliv
 
 ## Portfólio
 
+<p>
 <picture>
-  <source media="(max-width: 700px)" srcset="assets/v2/portfolio-celular.svg">
-  <img src="assets/v2/portfolio.svg" width="100%" alt="Portfólio: AlfrênIA (assistente pessoal · no ar): 14 especialistas e mais de 280 ferramentas — agenda, e-mail, finanças, estudo, conteúdo e painéis — pelo Telegram, por painel web e por voz. Corrige a si mesma: a correção nasce numa cópia isolada e só entra no ar depois de 96 verificações. · Jev (em teste · desde 25/09): Escolhe o especialista de cada mensagem. Em sombra: só entra se vencer a régua. · MedIA (saúde): Exames em 6 especialidades; decisão final do médico (CFM 2.454/2026). · ContaClara (condomínios · saas): Hidrômetro de água e gás por foto: a IA lê, uma pessoa confirma e o fechamento do condomínio sai comprovado. Vários condomínios, com assinatura. · Carga (treino): Força com prescrição auditável e adaptada. · Controle (varejo): Vendas e resultado: multiloja, loja única e representação. · Escola Fácil (educação): Matrícula, mensalidade e recibo, várias escolas. · Prospect (prospecção): Empresas pela base pública do CNPJ.">
+  <source media="(max-width: 559px)" srcset="assets/v2/portfolio-celular.svg">
+  <source media="(min-width: 768px) and (max-width: 900px)" srcset="assets/v2/portfolio-celular.svg">
+  <source media="(max-width: 1279px)" srcset="assets/v2/portfolio-medio.svg">
+  <img src="assets/v2/portfolio.svg" width="100%" alt="Portfólio: AlfrênIA (assistente pessoal · no ar): 14 especialistas e mais de 280 ferramentas — agenda, e-mail, finanças, estudo, conteúdo e painéis — pelo Telegram, por painel web e por voz. Corrige a si mesma: a correção nasce numa cópia isolada e só entra no ar depois de 96 verificações. · Jev (em teste · 25/09): Escolhe o especialista de cada mensagem. Em sombra: só entra se vencer a régua. · MedIA (saúde): Exames em 6 especialidades; decisão final do médico (CFM 2.454/2026). · ContaClara (condomínios · saas): Hidrômetro de água e gás por foto: a IA lê, uma pessoa confirma e o fechamento do condomínio sai comprovado. Vários condomínios, com assinatura. · Carga (treino): Força com prescrição auditável e adaptada. · Controle (varejo): Vendas e resultado: multiloja, loja única e representação. · Escola Fácil (educação): Matrícula, mensalidade e recibo, várias escolas. · Prospect (prospecção): Empresas pela base pública do CNPJ.">
 </picture>
+</p>
 
-Os repositórios são privados porque guardam alguns dados sensíveis. O código fica fechado; o que ele faz está aqui. Se algum projeto interessar, [entre em contato](#contato).
+Os repositórios são privados porque guardam alguns dados sensíveis. O código fica fechado; o que ele faz está aqui. Se algum projeto interessar, [entre em contato](#user-content-contato).
 
 <details>
 <summary>Ler os projetos em texto</summary>
@@ -34,17 +42,25 @@ Os repositórios são privados porque guardam alguns dados sensíveis. O código
 
 ## Método
 
+<p>
 <picture>
-  <source media="(max-width: 700px)" srcset="assets/v2/metodo-celular.svg">
+  <source media="(max-width: 559px)" srcset="assets/v2/metodo-celular.svg">
+  <source media="(min-width: 768px) and (max-width: 900px)" srcset="assets/v2/metodo-celular.svg">
+  <source media="(max-width: 1279px)" srcset="assets/v2/metodo-medio.svg">
   <img src="assets/v2/metodo.svg" width="100%" alt="Método: o prompt pede, o código garante. Regra que vive só no prompt é sugestão; sob pressão, o modelo a abandona. 01. Número vem de código: nunca de leitura; conferido por um segundo caminho. 02. Regra ganha trava: se o modelo ignorar, alguém percebe. 03. A IA não se autoaprova: veredito estruturado; quem decide é o código. 04. Verificação antes do ar: em cópia isolada; se falhar, a versão anterior volta.">
 </picture>
+</p>
 
 ## Trajetória
 
+<p>
 <picture>
-  <source media="(max-width: 700px)" srcset="assets/v2/trajetoria-celular.svg">
+  <source media="(max-width: 559px)" srcset="assets/v2/trajetoria-celular.svg">
+  <source media="(min-width: 768px) and (max-width: 900px)" srcset="assets/v2/trajetoria-celular.svg">
+  <source media="(max-width: 1279px)" srcset="assets/v2/trajetoria-medio.svg">
   <img src="assets/v2/trajetoria.svg" width="100%" alt="Trajetória: duas décadas de banco; a tecnologia acelerou agora. Banco do Brasil: 2004–2007 Escriturário; 2007–2012 Assistente de Negócios PF/PJ; 2012–2014 Gerente de Contas PJ; 2014–2020 Assessor na Superintendência Regional; 2020–hoje Gerente Geral de agência. Tecnologia: 2024 · Infinity School; jun/2025 · primeiros projetos no GitHub; mai/2026 · primeiros sistemas próprios; jul/2026 · nasce a AlfrênIA. Em paralelo: MBA em Data Science, IA e Analytics — USP/ESALQ; IA para Gestores — com o prof. Paschoal Oliveira.">
 </picture>
+</p>
 
 ## Formação
 
@@ -56,10 +72,14 @@ Os repositórios são privados porque guardam alguns dados sensíveis. O código
 
 ## Stack
 
+<p>
 <picture>
-  <source media="(max-width: 700px)" srcset="assets/v2/stack-celular.svg">
+  <source media="(max-width: 559px)" srcset="assets/v2/stack-celular.svg">
+  <source media="(min-width: 768px) and (max-width: 900px)" srcset="assets/v2/stack-celular.svg">
+  <source media="(max-width: 1279px)" srcset="assets/v2/stack-medio.svg">
   <img src="assets/v2/stack.svg" width="100%" alt="Stack, em camadas: AGENTES DE IA: Claude Code, Codex, Antigravity; IA: Gemini, OpenRouter, RAG, visão computacional; WEB: Next.js, React, Tailwind, Node.js, Express, FastAPI; DADOS: MySQL, Prisma, SQLite, SQLAlchemy, pandas; ENTREGA: Git, GitHub, Railway, Telegram.">
 </picture>
+</p>
 
 ## Contato
 
