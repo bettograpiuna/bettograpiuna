@@ -11,7 +11,7 @@ Parceria nas turmas de IA para Gestores: professor Paschoal Oliveira — [@pasch
 
 ## `02` O que estou construindo
 
-Os repositórios são privados porque guardam dados de clientes e de pessoas. O código fica fechado; o que ele faz está nos cartões.
+Os repositórios são privados porque guardam alguns dados sensíveis. O código fica fechado; o que ele faz está nos cartões. Se algum projeto interessar, [entre em contato](#06-contato).
 
 <p>
 <img src="assets/cards/alfrenia.svg" width="418" alt="AlfrênIA. Assistente pessoal com 14 especialistas e mais de 280 ferramentas — agenda, e-mail, finanças, estudo, conteúdo e painéis — pelo Telegram, por painel web e por voz.. Corrige a si mesma: a correção nasce numa cópia isolada e só entra no ar depois de 96 verificações automáticas.. (TypeScript, Node.js, SQLite, LLMs)"> <img src="assets/cards/jev.svg" width="418" alt="Jev na AlfrênIA. Modelo especializado em decisão que escolhe qual especialista responde cada mensagem.. Roda em sombra: decide junto com o roteador atual, mas só é medido. Entra em produção apenas se superar o atual numa régua escrita em código — acerto, economia, tempo e erro.. (modo sombra, régua em código)"><br>
