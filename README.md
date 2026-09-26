@@ -1,40 +1,38 @@
 <img src="assets/banner.svg" width="100%" alt="José Roberto Ramos — Gerente Geral no Banco do Brasil · IA aplicada à gestão">
 
-Salvador/BA · mais de 20 anos de carreira bancária · MBA em Data Science, IA e Analytics na USP/ESALQ (em andamento)
+## `01` Sobre
 
-Levo para a tecnologia o que a gestão me ensinou: meta clara, número conferido e risco apontado antes, não depois. Desenho ferramentas de IA para problemas reais de gestão — e cada uma precisa provar o que afirma.
+<p>
+<img src="assets/cards/quem-sou.svg" width="418" alt="Gestor que constrói IA. Gerente Geral de agência no Banco do Brasil, com mais de 20 anos de carreira bancária. MBA em Data Science, IA e Analytics na USP/ESALQ (em andamento).. Levo para a tecnologia o que a gestão me ensinou: meta clara, número conferido e risco apontado antes, não depois.. (Salvador/BA, USP/ESALQ, 20+ anos de banco)"> <img src="assets/cards/como-construo.svg" width="418" alt="Construo com agentes de IA. Eu defino o problema, as regras e a forma de conferir; os agentes de programação escrevem o código dentro dessas travas.. Cada ferramenta precisa provar o que afirma.. (Claude Code, Codex, Antigravity)"><br>
+<img src="assets/cards/ia-para-gestores.svg" width="418" alt="IA para Gestores. Idealizei e promovi, junto com o professor Paschoal Oliveira (@paschoaloli), duas turmas presenciais: 20 Gerentes Gerais de bancos, com encontros semanais durante 3 meses.. (2 turmas, 20 gerentes gerais, 3 meses)"> <img src="assets/cards/fluent-ia.svg" width="418" alt="Fluent.IA. Minha plataforma de formação em IA para quem parte do zero: a IA como ferramenta que otimiza o trabalho e melhora o próprio dia a dia.. (curso do zero, mentoria, sob medida)">
+</p>
 
-Construo com agentes de IA de programação: eu defino o problema, as regras e a forma de conferir; eles escrevem o código dentro dessas travas.
+Parceria nas turmas de IA para Gestores: professor Paschoal Oliveira — [@paschoaloli](https://www.instagram.com/paschoaloli/) no Instagram.
 
-Idealizei e promovi, junto com o professor Paschoal Oliveira ([@paschoaloli](https://www.instagram.com/paschoaloli/)), duas turmas de **IA para Gestores**: 20 Gerentes Gerais de bancos, em turmas presenciais com encontros semanais durante 3 meses.
+## `02` O que estou construindo
 
-## `01` O que estou construindo
+Os repositórios são privados porque guardam dados de clientes e de pessoas. O código fica fechado; o que ele faz está nos cartões.
 
-Os repositórios são privados porque guardam dados de clientes e de pessoas. O código fica fechado; o que ele faz está aqui.
+<p>
+<img src="assets/cards/alfrenia.svg" width="418" alt="AlfrênIA. Assistente pessoal com 14 especialistas e mais de 280 ferramentas — agenda, e-mail, finanças, estudo, conteúdo e painéis — pelo Telegram, por painel web e por voz.. Corrige a si mesma: a correção nasce numa cópia isolada e só entra no ar depois de 96 verificações automáticas.. (TypeScript, Node.js, SQLite, LLMs)"> <img src="assets/cards/jev.svg" width="418" alt="Jev na AlfrênIA. Modelo especializado em decisão que escolhe qual especialista responde cada mensagem.. Roda em sombra: decide junto com o roteador atual, mas só é medido. Entra em produção apenas se superar o atual numa régua escrita em código — acerto, economia, tempo e erro.. (modo sombra, régua em código)"><br>
+<img src="assets/cards/contaclara.svg" width="418" alt="ContaClara. Leitura de hidrômetros de água e gás por foto: a IA lê, uma pessoa confirma e o fechamento do condomínio sai comprovado.. Atende vários condomínios, com assinatura.. (Next.js, Prisma, MySQL, IA de visão)"> <img src="assets/cards/media.svg" width="418" alt="MedIA. Análise de exames por IA em seis especialidades e triagem PCD à parte, com uma regra específica para cada benefício.. O que a IA extrai só vale depois que uma pessoa confirma.. (Python, FastAPI, Next.js)"><br>
+<img src="assets/cards/carga.svg" width="418" alt="Carga. Treino de força com prescrição auditável e adaptada a limitações físicas.. Feito para usar no celular, dentro da academia: uma decisão por tela.. (Next.js, Prisma)"> <img src="assets/cards/controle.svg" width="418" alt="Família Controle. Vendas, recebimentos e resultado em três versões: Controle Financeiro (varejo com várias lojas), Controle Total (loja única) e Controle Representação (pedidos e comissão para representantes de várias marcas).. (Next.js, Prisma, MySQL)"><br>
+<img src="assets/cards/escola-facil.svg" width="418" alt="Escola Fácil. Matrícula, mensalidade e recibo para escolas de dança.. Várias escolas no mesmo sistema, cada uma isolada das outras.. (Next.js, Prisma, MySQL)"> <img src="assets/cards/prospect.svg" width="418" alt="Prospect. Prospecção de empresas a partir da base pública do CNPJ.. (TypeScript, Node.js, SQLite)">
+</p>
 
-| Projeto | O que resolve | Tecnologia |
-|:--|:--|:--|
-| **AlfrênIA** | Assistente pessoal com 14 especialistas e mais de 280 ferramentas — agenda, e-mail, finanças, estudo, produção de conteúdo e painéis — pelo Telegram, por um painel web e por voz. Corrige a si mesma: um incidente vira correção numa cópia isolada, que só entra no ar depois de passar por 96 verificações automáticas. | TypeScript · Node.js · SQLite · LLMs |
-| **ContaClara** | Leitura de hidrômetros de água e gás por foto: a IA lê, uma pessoa confirma e o fechamento do condomínio sai comprovado. Atende vários condomínios, com assinatura. | Next.js · Prisma · MySQL · IA de visão |
-| **MedIA** | Análise de exames por IA em seis especialidades e triagem PCD à parte, com uma regra específica para cada benefício. O que a IA extrai só vale depois que uma pessoa confirma. | Python · FastAPI · Next.js |
-| **Carga** | Treino de força com prescrição auditável e adaptada a limitações físicas, feito para usar no celular, dentro da academia. | Next.js · Prisma |
-| **Controle Financeiro · Total · Representação** | Vendas, recebimentos e resultado: varejo com várias lojas, loja única, e pedidos com comissão para representantes de várias marcas. | Next.js · Prisma · MySQL |
-| **Escola Fácil** | Matrícula, mensalidade e recibo para escolas de dança, várias escolas no mesmo sistema. | Next.js · Prisma · MySQL |
-| **Prospect** | Prospecção de empresas a partir da base pública do CNPJ. | TypeScript · Node.js · SQLite |
-
-> [!NOTE]
-> **Em teste agora: o Jev na AlfrênIA.** Desde 25/09/2026 a AlfrênIA testa o Jev, um modelo especializado em decisão, para escolher qual especialista responde cada mensagem. Ele roda **em sombra**: decide junto com o roteador atual, mas quem manda continua sendo o roteador — o Jev só é medido. Ele entra em produção apenas se superar o atual numa régua escrita em código (acerto, economia, tempo de resposta e taxa de erro), não por impressão.
-
-## `02` Como trabalho
+## `03` Como trabalho
 
 Regra que vive só no prompt é sugestão: sob pressão, o modelo a abandona — e erra com a mesma convicção com que acerta. Por isso:
 
-- **Número sai de código, nunca de leitura.** Conta que importa é conferida por um segundo caminho; duas contas que discordam denunciam o erro.
-- **Toda regra dada à IA ganha uma trava ou um alarme em código.** Se o modelo ignorar, alguém percebe.
-- **A IA não se autoaprova.** Ela devolve um veredito estruturado; quem decide é o código.
-- **Nada vai ao ar sem passar pela verificação**, numa cópia isolada. Se a versão nova não sobe, a anterior volta sozinha.
+<p>
+<img src="assets/cards/principio-1.svg" width="418" alt="Número sai de código. Nunca de leitura. Conta que importa é conferida por um segundo caminho; duas contas que discordam denunciam o erro."> <img src="assets/cards/principio-2.svg" width="418" alt="Toda regra ganha trava. Toda regra dada à IA ganha uma trava ou um alarme em código. Se o modelo ignorar, alguém percebe."><br>
+<img src="assets/cards/principio-3.svg" width="418" alt="A IA não se autoaprova. Ela devolve um veredito estruturado; quem decide é o código."> <img src="assets/cards/principio-4.svg" width="418" alt="Verificação antes do ar. Nada vai ao ar sem passar pela verificação, numa cópia isolada. Se a versão nova não sobe, a anterior volta sozinha.">
+</p>
 
-## `03` Tecnologia
+## `04` Tecnologia
+
+**Agentes de IA**<br>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-161B22?style=for-the-badge&logo=claude&logoColor=D97757) ![Codex](https://img.shields.io/badge/Codex-161B22?style=for-the-badge) ![Antigravity](https://img.shields.io/badge/Antigravity-161B22?style=for-the-badge&logo=google&logoColor=4285F4)
 
 **Linguagens**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -51,23 +49,11 @@ Regra que vive só no prompt é sugestão: sob pressão, o modelo a abandona —
 **Entrega**<br>
 ![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF) ![Railway](https://img.shields.io/badge/Railway-161B22?style=for-the-badge&logo=railway&logoColor=FFFFFF)
 
-## `04` Trajetória no Banco do Brasil
+## `05` Trajetória e formação
 
-| Período | Cargo |
-|:--|:--|
-| 2020 – atual | Gerente Geral de agência (Varejo) |
-| 2014 – 2020 | Assessor na Superintendência Regional |
-| 2012 – 2014 | Gerente de Contas PJ |
-| 2007 – 2012 | Assistente de Negócios PF/PJ |
-| 2004 – 2007 | Escriturário |
-
-## `05` Formação
-
-- **MBA em Data Science, IA e Analytics** — USP/ESALQ (em andamento)
-- **Programação Full Stack com IA** — Infinity School
-- **Pós-graduação em Controladoria e Finanças** — FTC (2016–2018)
-- **Bacharelado em Administração** — UESC (2003–2007)
-- **Certificação CPA-20** — ANBIMA
+<p>
+<img src="assets/cards/trajetoria.svg" width="418" alt="Trajetória no Banco do Brasil. 2020–atual Gerente Geral de agência (Varejo). 2014–2020 Assessor na Superintendência Regional. 2012–2014 Gerente de Contas PJ. 2007–2012 Assistente de Negócios PF/PJ. 2004–2007 Escriturário"> <img src="assets/cards/formacao.svg" width="418" alt="Formação. MBA em Data Science, IA e Analytics USP/ESALQ · em andamento. Programação Full Stack com IA Infinity School · início da jornada em programação + IA, onde conheci o professor com quem tenho parceria. Pós-graduação em Controladoria e Finanças FTC · 2016–2018. Bacharelado em Administração UESC · 2003–2007. Certificação CPA-20 ANBIMA">
+</p>
 
 ## `06` Contato
 

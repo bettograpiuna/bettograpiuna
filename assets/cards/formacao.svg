@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="457" viewBox="0 0 600 457" role="img" aria-label="Formação. MBA em Data Science, IA e Analytics USP/ESALQ · em andamento. Programação Full Stack com IA Infinity School · início da jornada em programação + IA, onde conheci o professor com quem tenho parceria. Pós-graduação em Controladoria e Finanças FTC · 2016–2018. Bacharelado em Administração UESC · 2003–2007. Certificação CPA-20 ANBIMA">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111B29"/>
+    </linearGradient>
+    <pattern id="grade" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#30363D" stroke-width="1" opacity="0.28"/>
+    </pattern>
+    <radialGradient id="brilho" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="457" rx="12" fill="url(#fundo)"/>
+  <rect width="600" height="457" rx="12" fill="url(#grade)"/>
+  <rect width="600" height="457" rx="12" fill="url(#brilho)"/>
+  <rect x="0.5" y="0.5" width="599" height="456" rx="12" fill="none" stroke="#30363D"/>
+  <circle cx="24" cy="22" r="4.5" fill="#FF5F56"/>
+  <circle cx="39" cy="22" r="4.5" fill="#FFBD2E"/>
+  <circle cx="54" cy="22" r="4.5" fill="#27C93F"/>
+  <text x="70" y="27" font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#22D3EE">~/formacao</text>
+  <line x1="0" y1="42" x2="600" y2="42" stroke="#30363D"/>
+  <text x="28" y="84" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#F0F6FC">Formação</text>
+  <text x="28" y="120" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#F0F6FC">MBA em Data Science, IA e Analytics</text>
+  <text x="28" y="145" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#8B949E">USP/ESALQ · em andamento</text>
+  <text x="28" y="180" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#F0F6FC">Programação Full Stack com IA</text>
+  <text x="28" y="205" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#8B949E">Infinity School · início da jornada em programação + IA,</text>
+  <text x="28" y="228" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#8B949E">onde conheci o professor com quem tenho parceria</text>
+  <text x="28" y="263" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#F0F6FC">Pós-graduação em Controladoria e Finanças</text>
+  <text x="28" y="288" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#8B949E">FTC · 2016–2018</text>
+  <text x="28" y="323" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#F0F6FC">Bacharelado em Administração</text>
+  <text x="28" y="348" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#8B949E">UESC · 2003–2007</text>
+  <text x="28" y="383" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#F0F6FC">Certificação CPA-20</text>
+  <text x="28" y="408" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#8B949E">ANBIMA</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="321" viewBox="0 0 600 321" role="img" aria-label="Família Controle. Vendas, recebimentos e resultado em três versões: Controle Financeiro (varejo com várias lojas), Controle Total (loja única) e Controle Representação (pedidos e comissão para representantes de várias marcas).. (Next.js, Prisma, MySQL)">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111B29"/>
+    </linearGradient>
+    <pattern id="grade" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#30363D" stroke-width="1" opacity="0.28"/>
+    </pattern>
+    <radialGradient id="brilho" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="321" rx="12" fill="url(#fundo)"/>
+  <rect width="600" height="321" rx="12" fill="url(#grade)"/>
+  <rect width="600" height="321" rx="12" fill="url(#brilho)"/>
+  <rect x="0.5" y="0.5" width="599" height="320" rx="12" fill="none" stroke="#30363D"/>
+  <circle cx="24" cy="22" r="4.5" fill="#FF5F56"/>
+  <circle cx="39" cy="22" r="4.5" fill="#FFBD2E"/>
+  <circle cx="54" cy="22" r="4.5" fill="#27C93F"/>
+  <text x="70" y="27" font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#22D3EE">varejo e representação</text>
+  <line x1="0" y1="42" x2="600" y2="42" stroke="#30363D"/>
+  <text x="28" y="84" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="#F0F6FC">Família Controle</text>
+  <text x="28" y="120" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#C9D1D9">Vendas, recebimentos e resultado em três versões:</text>
+  <text x="28" y="147" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#C9D1D9">Controle Financeiro (varejo com várias lojas),</text>
+  <text x="28" y="174" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#C9D1D9">Controle Total (loja única) e Controle Representação</text>
+  <text x="28" y="201" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#C9D1D9">(pedidos e comissão para representantes de várias</text>
+  <text x="28" y="228" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#C9D1D9">marcas).</text>
+  <rect x="28" y="271" width="76" height="28" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="38" y="290" font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#C9D1D9">Next.js</text>
+  <rect x="112" y="271" width="68" height="28" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="122" y="290" font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#C9D1D9">Prisma</text>
+  <rect x="188" y="271" width="60" height="28" rx="6" fill="#161B22" stroke="#30363D"/>
+  <text x="198" y="290" font-family="Consolas, 'SFMono-Regular', Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#C9D1D9">MySQL</text>
+</svg>
