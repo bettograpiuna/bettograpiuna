@@ -9,7 +9,7 @@
 
 Sou Gerente Geral de agência no Banco do Brasil, com mais de 20 anos de carreira, e faço MBA em Data Science, IA e Analytics na USP/ESALQ. Construo com agentes de IA de programação: eu defino o problema, as regras e a forma de conferir; eles escrevem o código dentro dessas travas.
 
-Também formo gestores. Idealizei e promovi, junto com o professor Paschoal Oliveira ([@paschoaloli](https://www.instagram.com/paschoaloli/)), duas turmas presenciais de **IA para Gestores**: 20 Gerentes Gerais de bancos, com encontros semanais durante 3 meses. É o mesmo propósito da **Fluent.IA**, minha plataforma de formação em IA para quem parte do zero.
+Também idealizei e promovi, junto com o professor Paschoal Oliveira ([@paschoaloli](https://www.instagram.com/paschoaloli/)), duas turmas presenciais de **IA para Gestores**: 20 Gerentes Gerais de bancos, com encontros semanais durante 3 meses. É o mesmo propósito da **Fluent.IA**, minha plataforma de formação em IA para quem parte do zero.
 
 ## Portfólio
 
